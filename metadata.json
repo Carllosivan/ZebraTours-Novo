@@ -1,0 +1,6 @@
+{
+  "name": "Zebra Tours Moçambique",
+  "description": "Website oficial e portal de viagens da Zebra Tours Moçambique. Passagens aéreas, alojamento, pacotes turísticos e assistência ao viajante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
